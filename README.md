@@ -1,0 +1,1 @@
+# nRF-Mesh-Light-Switch
